@@ -1,4 +1,4 @@
-import itertools as it
+# import itertools as it
 
 anagrama = input('Digite 1 palavra : ')
 a = sorted(anagrama)
