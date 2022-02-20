@@ -4,7 +4,7 @@ Primeiramente para rodar codigo usei editor vsCode e para instalar use endereço
 
 LINGUAGEM UTILIZADA:
 
-    Python 3.9.10
+    Python 3.9.10 - https://www.python.org/downloads/
 
 COMO CLONAR:
     
