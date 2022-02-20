@@ -26,7 +26,7 @@ COMO RODAR QUESTÃO 02:
         
     use comando;
         python3 quest_02.py
-    Após você digitará uma senha na qual tem 5 pontos de atenção... 
+    Após você poderá digitar uma senha na qual tem 5 pontos de atenção... 
         1 - minimo 6 caracteres 
         2 - minimo 1 digito numeral
         3 - minimo 1 letra minuscula
