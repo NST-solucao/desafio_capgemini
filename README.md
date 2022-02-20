@@ -1,3 +1,8 @@
 # desafio_capgemini
 
-Primeiramente para rodar codigo na questão 3 usei editor vsCode 
+Primeiramente para rodar codigo usei editor vsCode e para instalar use endereço https://code.visualstudio.com/download
+
+LINGUAGEM UTILIZADA
+
+    Python
+
