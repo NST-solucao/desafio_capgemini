@@ -21,6 +21,8 @@ COMO RODAR QUESTÃO 01:
         
     use comando;
         python3 quest_01.py
+    Após execução vai se formar a escada sem conter espaços no final.
+    Obs - Atualmente está como se pede na questão se precisar aumentar a variavel 'n' que é igual a 6. a variavel 'e' precisa se aumentada 1 espaço e 1 * para cada vlor aumentado de 1 em 1. exemplo se precisa colocar n=8 o e='       ********'
 
 COMO RODAR QUESTÃO 02:
         
@@ -32,12 +34,13 @@ COMO RODAR QUESTÃO 02:
         3 - minimo 1 letra minuscula
         4 - minimo 1 maiuscula
         5 - minimo 1 caracter especial !@#$%^&*()-+
+    Por fim, se a senha dgitada não estiver dentro dos pre requisitos não será "salva", no fim de cada execução se estiver fora ele aponta o que faltou como requisito.
 
 COMO RODAR QUESTÃO 03:
         
     use comando;
         python3 quest_03.py
-    Em desenvolvimento ... Conseguir os resultados separados mais ainda falta retornar a posição que é coisa simples porém preciso encontrar codigo certo.
+    Primeiramente, depois de executar o codigo ele vai pedir uma palavra e seu retorno ele retorna exatamente o numeros de vezes que foi encontrado anagrama na palavra digitada exemplo 
 
 
     
