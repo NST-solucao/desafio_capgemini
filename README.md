@@ -37,8 +37,7 @@ COMO RODAR QUESTÃO 03:
         
     use comando;
         python3 quest_03.py
-    Em desenvolvimento ... Confesso que essa questão me pegou achei mais facil fazer anagramas de 2 palavras mais de uma como exemplo me confundir. 
-    o desenvolvimento retorno as reptições das letas reptitidas mais ainda vendo 1 jeito de retornar a posição. 
+    Em desenvolvimento ... Conseguir os resultados separados mais ainda falta retornar a posição que é coisa simples porém preciso encontrar codigo certo.
 
 
     
