@@ -42,11 +42,3 @@ COMO RODAR QUESTÃO 03 - DESAFIO 01:
     use comando;
         python3 quest_03.py
     Primeiramente, depois de executar o codigo ele vai pedir uma palavra e seu retorno ele retorna exatamente o numeros de vezes que foi encontrado anagrama na palavra digitada exemplo 
-
-
- COMO RODAR QUESTÃO 01 - DESAFIO 02:
-        
-    use comando;
-        python3 quest_01-Desafio_02.py 
-    Usei duas formas para essa questao usadando uma biblioteca otimizando o codigo em 3 linhas e e sem a biblioteca 6 linhas. 
-    Obs - O retorno é mesmo ele encontra a mediana do array especifico
