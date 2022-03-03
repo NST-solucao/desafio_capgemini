@@ -23,7 +23,7 @@ COMO RODAR QUESTÃO 01 - DESAFIO 01:
     use comando;
         python3 quest_01.py
     Após execução vai se formar a escada sem conter espaços no final.
-    Obs - Atualmente está como se pede na questão se precisar aumentar a variavel 'n' que é igual a 6. a variavel 'e' precisa se aumentada 1 espaço e 1 * para cada vlor aumentado de 1 em 1. exemplo se precisa colocar n=8 o e='       ********'
+    Obs - Atualmente está como se pede na questão se precisar aumentar a variavel 'n' ele vai tratar de acordo com valor de 'n' se precisara aumentar a escada ou dinimuir simplesmente altere 'n = <int>' 
 
 COMO RODAR QUESTÃO 02 - DESAFIO 01:
         
