@@ -10,11 +10,11 @@ COMO CLONAR O PROJETO:
     
     clonar projeto pelo comando pelo terminal
     git clone https://github.com/NST-solucao/desafio_capgemini
-    Obs - Para esse tipo de comando você precisa está com git instalado na sua maquina.
+    Obs - Para esse tipo de comando você precisa está com git instalado na sua maquina. Para maiores informações em https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git
 
 COMO ENTRAR NA PASTA:
 
-    abra pasta use comandos;
+    abra pasta use comandos ainda no terminal;
         Windows = cd .\desafio_capgemini\
         linux = cd desafio_capgemini
 
@@ -41,4 +41,4 @@ COMO RODAR QUESTÃO 03 - DESAFIO 01:
         
     use comando;
         python3 quest_03.py
-    Primeiramente, depois de executar o codigo ele vai pedir uma palavra e seu retorno ele retorna exatamente o numeros de vezes que foi encontrado anagrama na palavra digitada exemplo 
+    Primeiramente, depois de executar o codigo ele vai pedir uma palavra e seu retorno ele retorna exatamente o numeros de vezes que foi encontrado anagrama na palavra digitada exemplo para confirmar os anagramas você precisa descomentar as linhas do printdentro de cada if. 
